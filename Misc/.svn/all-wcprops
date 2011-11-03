@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/proteowizard/!svn/ver/1593/trunk/pwiz/pwiz_tools/SeeMS/Misc
+END
+DataProcessing.ico
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/proteowizard/!svn/ver/315/trunk/pwiz/pwiz_tools/SeeMS/Misc/DataProcessing.ico
+END
+EventSpy.cs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/proteowizard/!svn/ver/1593/trunk/pwiz/pwiz_tools/SeeMS/Misc/EventSpy.cs
+END
+SpectrumDataSet.xss
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/proteowizard/!svn/ver/560/trunk/pwiz/pwiz_tools/SeeMS/Misc/SpectrumDataSet.xss
+END
+SpectrumIcon.ico
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/proteowizard/!svn/ver/276/trunk/pwiz/pwiz_tools/SeeMS/Misc/SpectrumIcon.ico
+END
+ChromatogramDataSet.xsc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/proteowizard/!svn/ver/652/trunk/pwiz/pwiz_tools/SeeMS/Misc/ChromatogramDataSet.xsc
+END
+ChromatogramDataSet.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/proteowizard/!svn/ver/652/trunk/pwiz/pwiz_tools/SeeMS/Misc/ChromatogramDataSet.xsd
+END
+ListViewColumnSorter.cs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/proteowizard/!svn/ver/1593/trunk/pwiz/pwiz_tools/SeeMS/Misc/ListViewColumnSorter.cs
+END
+SpectrumSVG-template.svg
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/proteowizard/!svn/ver/276/trunk/pwiz/pwiz_tools/SeeMS/Misc/SpectrumSVG-template.svg
+END
+ChromatogramDataSet.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/proteowizard/!svn/ver/1451/trunk/pwiz/pwiz_tools/SeeMS/Misc/ChromatogramDataSet.Designer.cs
+END
+FileSizeFormatProvider.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/proteowizard/!svn/ver/1593/trunk/pwiz/pwiz_tools/SeeMS/Misc/FileSizeFormatProvider.cs
+END
+Extensions.cs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/proteowizard/!svn/ver/1451/trunk/pwiz/pwiz_tools/SeeMS/Misc/Extensions.cs
+END
+SpectrumDataSet.xsc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/proteowizard/!svn/ver/560/trunk/pwiz/pwiz_tools/SeeMS/Misc/SpectrumDataSet.xsc
+END
+ChromatogramDataSet.xss
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/proteowizard/!svn/ver/652/trunk/pwiz/pwiz_tools/SeeMS/Misc/ChromatogramDataSet.xss
+END
+SpectrumDataSet.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/proteowizard/!svn/ver/560/trunk/pwiz/pwiz_tools/SeeMS/Misc/SpectrumDataSet.xsd
+END
+Centroider.ico
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/proteowizard/!svn/ver/276/trunk/pwiz/pwiz_tools/SeeMS/Misc/Centroider.ico
+END
+Smoother.ico
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/proteowizard/!svn/ver/276/trunk/pwiz/pwiz_tools/SeeMS/Misc/Smoother.ico
+END
+Arguments.cs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/proteowizard/!svn/ver/1593/trunk/pwiz/pwiz_tools/SeeMS/Misc/Arguments.cs
+END
+SpectrumDataSet.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/proteowizard/!svn/ver/1451/trunk/pwiz/pwiz_tools/SeeMS/Misc/SpectrumDataSet.Designer.cs
+END
+MruStripMenu.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/proteowizard/!svn/ver/1593/trunk/pwiz/pwiz_tools/SeeMS/Misc/MruStripMenu.cs
+END

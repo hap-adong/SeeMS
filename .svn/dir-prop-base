@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 76
+_ReSharper.seems
+bin
+obj
+seems.4.5.resharper.user
+seems.sln.cache
+seems.suo
+
+END

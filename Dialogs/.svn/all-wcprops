@@ -1,0 +1,221 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/proteowizard/!svn/ver/2872/trunk/pwiz/pwiz_tools/SeeMS/Dialogs
+END
+AnnotationPanels.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/proteowizard/!svn/ver/2872/trunk/pwiz/pwiz_tools/SeeMS/Dialogs/AnnotationPanels.Designer.cs
+END
+TreeViewForm.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/proteowizard/!svn/ver/1593/trunk/pwiz/pwiz_tools/SeeMS/Dialogs/TreeViewForm.Designer.cs
+END
+DataPointTableForm.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/proteowizard/!svn/ver/1593/trunk/pwiz/pwiz_tools/SeeMS/Dialogs/DataPointTableForm.Designer.cs
+END
+TreeViewForm.cs
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/proteowizard/!svn/ver/1451/trunk/pwiz/pwiz_tools/SeeMS/Dialogs/TreeViewForm.cs
+END
+ProcessingPanels.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/proteowizard/!svn/ver/1451/trunk/pwiz/pwiz_tools/SeeMS/Dialogs/ProcessingPanels.cs
+END
+ProcessingListView.resx
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/proteowizard/!svn/ver/690/trunk/pwiz/pwiz_tools/SeeMS/Dialogs/ProcessingListView.resx
+END
+ChromatogramListForm.resx
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/proteowizard/!svn/ver/690/trunk/pwiz/pwiz_tools/SeeMS/Dialogs/ChromatogramListForm.resx
+END
+SpectrumListForm.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/proteowizard/!svn/ver/1593/trunk/pwiz/pwiz_tools/SeeMS/Dialogs/SpectrumListForm.Designer.cs
+END
+SpectrumAnnotationForm.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/proteowizard/!svn/ver/2321/trunk/pwiz/pwiz_tools/SeeMS/Dialogs/SpectrumAnnotationForm.cs
+END
+SpectrumProcessingForm.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/proteowizard/!svn/ver/1593/trunk/pwiz/pwiz_tools/SeeMS/Dialogs/SpectrumProcessingForm.Designer.cs
+END
+SpectrumListForm.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/proteowizard/!svn/ver/2321/trunk/pwiz/pwiz_tools/SeeMS/Dialogs/SpectrumListForm.cs
+END
+GraphForm.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/proteowizard/!svn/ver/1721/trunk/pwiz/pwiz_tools/SeeMS/Dialogs/GraphForm.Designer.cs
+END
+AnnotationPanels.resx
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/proteowizard/!svn/ver/1450/trunk/pwiz/pwiz_tools/SeeMS/Dialogs/AnnotationPanels.resx
+END
+DataPointTableForm.resx
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/proteowizard/!svn/ver/652/trunk/pwiz/pwiz_tools/SeeMS/Dialogs/DataPointTableForm.resx
+END
+SpectrumProcessingForm.resx
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/proteowizard/!svn/ver/690/trunk/pwiz/pwiz_tools/SeeMS/Dialogs/SpectrumProcessingForm.resx
+END
+SelectColumnsDialog.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/proteowizard/!svn/ver/1451/trunk/pwiz/pwiz_tools/SeeMS/Dialogs/SelectColumnsDialog.cs
+END
+GraphForm.resx
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/proteowizard/!svn/ver/1721/trunk/pwiz/pwiz_tools/SeeMS/Dialogs/GraphForm.resx
+END
+ProcessingListView.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/proteowizard/!svn/ver/1785/trunk/pwiz/pwiz_tools/SeeMS/Dialogs/ProcessingListView.cs
+END
+ChromatogramListForm.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/proteowizard/!svn/ver/2322/trunk/pwiz/pwiz_tools/SeeMS/Dialogs/ChromatogramListForm.cs
+END
+OpenDataSourceDialog.resx
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/proteowizard/!svn/ver/1039/trunk/pwiz/pwiz_tools/SeeMS/Dialogs/OpenDataSourceDialog.resx
+END
+AboutForm.resx
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/proteowizard/!svn/ver/366/trunk/pwiz/pwiz_tools/SeeMS/Dialogs/AboutForm.resx
+END
+AnnotationPanels.cs
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/proteowizard/!svn/ver/1451/trunk/pwiz/pwiz_tools/SeeMS/Dialogs/AnnotationPanels.cs
+END
+ProcessingPanels.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/proteowizard/!svn/ver/1593/trunk/pwiz/pwiz_tools/SeeMS/Dialogs/ProcessingPanels.Designer.cs
+END
+DataPointTableForm.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/proteowizard/!svn/ver/1451/trunk/pwiz/pwiz_tools/SeeMS/Dialogs/DataPointTableForm.cs
+END
+SpectrumAnnotationForm.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/proteowizard/!svn/ver/1593/trunk/pwiz/pwiz_tools/SeeMS/Dialogs/SpectrumAnnotationForm.Designer.cs
+END
+SpectrumProcessingForm.cs
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/proteowizard/!svn/ver/1451/trunk/pwiz/pwiz_tools/SeeMS/Dialogs/SpectrumProcessingForm.cs
+END
+GraphForm.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/proteowizard/!svn/ver/2321/trunk/pwiz/pwiz_tools/SeeMS/Dialogs/GraphForm.cs
+END
+TreeViewForm.resx
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/proteowizard/!svn/ver/690/trunk/pwiz/pwiz_tools/SeeMS/Dialogs/TreeViewForm.resx
+END
+ProcessingPanels.resx
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/proteowizard/!svn/ver/652/trunk/pwiz/pwiz_tools/SeeMS/Dialogs/ProcessingPanels.resx
+END
+OpenDataSourceDialog.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/proteowizard/!svn/ver/1593/trunk/pwiz/pwiz_tools/SeeMS/Dialogs/OpenDataSourceDialog.Designer.cs
+END
+OpenDataSourceDialog.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/proteowizard/!svn/ver/2088/trunk/pwiz/pwiz_tools/SeeMS/Dialogs/OpenDataSourceDialog.cs
+END
+SpectrumAnnotationForm.resx
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/proteowizard/!svn/ver/652/trunk/pwiz/pwiz_tools/SeeMS/Dialogs/SpectrumAnnotationForm.resx
+END
+AboutForm.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/proteowizard/!svn/ver/1593/trunk/pwiz/pwiz_tools/SeeMS/Dialogs/AboutForm.Designer.cs
+END
+SpectrumListForm.resx
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/proteowizard/!svn/ver/690/trunk/pwiz/pwiz_tools/SeeMS/Dialogs/SpectrumListForm.resx
+END
+AboutForm.cs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/proteowizard/!svn/ver/1451/trunk/pwiz/pwiz_tools/SeeMS/Dialogs/AboutForm.cs
+END
+ChromatogramListForm.Designer.cs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/proteowizard/!svn/ver/1593/trunk/pwiz/pwiz_tools/SeeMS/Dialogs/ChromatogramListForm.Designer.cs
+END
